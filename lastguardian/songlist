@@ -1,0 +1,38 @@
+{
+  "id": "lastguardian",
+  "title_localized": {
+    "en": "Last Guardian"
+  },
+  "artist": "ARForest",
+  "bpm": "158",
+  "bpm_base": 158,
+  "set": "",
+  "purchase": "",
+  "audioPreview": 56203,
+  "audioPreviewEnd": 69873,
+  "side": 1,
+  "bg": "epilogue",
+  "date": 1630425600,
+  "version": "",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 1
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 1
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "OrenNeko",
+      "jacketDesigner": "",
+      "rating": 9,
+      "ratingPlus": true
+    }
+  ]
+}
