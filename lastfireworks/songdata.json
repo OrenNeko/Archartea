@@ -1,0 +1,40 @@
+{
+	"id": "lastfireworks",
+	"title_localized": {
+		"en": "Last Fireworks"
+	},
+	"artist": "Kohta Imafuku",
+	"bpm": "138",
+	"bpm_base": 138,
+	"set": "base",
+	"purchase": "",
+	"audioPreview": 92174,
+	"audioPreviewEnd": 120000,
+	"side": 0,
+	"bg": "omatsuri_light",
+  "source_localized": {
+    "en": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-"
+  },
+	"date": 1719568863,
+	"version": "",
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "OrenNeko",
+			"jacketDesigner": "",
+			"rating": 9
+		}
+	]
+}
