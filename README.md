@@ -5,6 +5,7 @@ Arcaea fan-made chart repo. Drink tea for enjoying!
 |  Song  | Artist | Bpm | Chart Designer| Jacket Designer | Difficulty | Date |
 |  ----  | ----  | ---- |  ---- | ---- | ---- | ---- |
 | Last Guardian  | ARForest | 158.00 | OrenNeko | None | 9+ | 2024-03-28
+| Last Fireworks  | Kohta Imafuku | 138.00 | OrenNeko | None | 9 | 2024-09-19
 
 ## Note
 1. This repo is only used for player sharing and is not profitable. 
