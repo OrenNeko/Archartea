@@ -1,0 +1,40 @@
+{
+	"id": "yaoban",
+	"title_localized": {
+		"en": "耀斑"
+	},
+	"artist": "Hoyo-Mix",
+	"bpm": "148",
+	"bpm_base": 148,
+	"set": "base",
+	"purchase": "",
+	"audioPreview": 49662,
+	"audioPreviewEnd": 64578,
+	"side": 1,
+	"bg": "finale_conflict",
+  "source_localized": {
+    "en": "Honkai: Star Rail"
+  },
+	"date": 1719568863,
+	"version": "",
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "KitsuNeko",
+			"jacketDesigner": "",
+			"rating": 10
+		}
+	]
+}
